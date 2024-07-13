@@ -5,7 +5,7 @@ on:
     branches: ["main"]
 
 jobs:
-  # Build 명령어를 활용한 테스트 진행
+  # Build 명령어를 활용한 테스트 진행.
   build-test:
     runs-on: ubuntu-20.04
     env:
